@@ -1,1 +1,1 @@
-# funcation
+A simple command-line application.
